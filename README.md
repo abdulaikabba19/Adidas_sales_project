@@ -1,6 +1,6 @@
 # ADIDAS US SALES ANALYSIS
 
-![adidas_sales](images\dashboard_gifs.gif)
+![adidas_sales](https://github.com/abdulaikabba19/Adidas_sales_project/blob/main/images/dashboard_gifs.gif?raw=true)
 
 ## 📌 Project Overview
 This project is a complete end‑to‑end analysis of Adidas’ U.S. sales performance using Excel. I built an interactive dashboard that highlights key business metrics, sales trends, retailer performance, and regional profitability. The goal of this project was to transform raw transactional data into actionable insights that Adidas stakeholders could use for strategic decision‑making.
@@ -93,7 +93,7 @@ In‑store: 28%
 
 **Insight:** Online sales dominate, suggesting strong digital engagement and opportunities for further e‑commerce investment.
 
-![sales_method](images\unit_sold_by_sales_method.png)
+![sales_method](https://github.com/abdulaikabba19/Adidas_sales_project/blob/main/images/unit_sold_by_sales_method.png?raw=true)
 
 **2. Total Profit by Region**
 
@@ -109,7 +109,7 @@ Midwest: $52.81M
 
 **Insight:** The West region is the most profitable, likely due to higher population density, stronger retail partnerships, or higher demand for Adidas products.
 
-![profit_by_region](images\total_profit_by_region.png)
+![profit_by_region](https://github.com/abdulaikabba19/Adidas_sales_project/blob/main/images/total_profit_by_region.png?raw=true)
 
 **3. Total Sales by Retailer**
 
@@ -127,7 +127,7 @@ Walmart: $74.56M
 
 **Insight:** West Gear and Foot Locker are Adidas’ strongest retail partners, contributing nearly half of total sales.
 
-![sales_by_retailer](images\total_sales_by_retailer.png)
+![sales_by_retailer](https://github.com/abdulaikabba19/Adidas_sales_project/blob/main/images/total_sales_by_retailer.png?raw=true)
 
 **4. Sales by Product Category & Retailer**
 
@@ -147,7 +147,7 @@ Women’s Street Footwear
 
 **Insight:** Athletic footwear (both men’s and women’s) consistently drives high sales across most retailers, confirming Adidas’ strong brand positioning in performance footwear.
 
-![product_category](images\sales_by_product_retailers.png)
+![product_category](https://github.com/abdulaikabba19/Adidas_sales_project/blob/main/images/sales_by_product_retailers.png?raw=true)
 
 ## 📘 What I Learned
 
@@ -181,7 +181,7 @@ Through this project, I strengthened my skills in:
 
 The dashboard updates automatically based on your selections.
 
-![slicers_timeline](images\slicers.png)
+![slicers_timeline](https://github.com/abdulaikabba19/Adidas_sales_project/blob/main/images/slicers.png?raw=true)
 
 *This image shows the slicers that makes this dashboard interactive*
 
