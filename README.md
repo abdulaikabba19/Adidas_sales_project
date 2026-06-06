@@ -5,7 +5,7 @@
 ## 📌 Project Overview
 This project is a complete end‑to‑end analysis of Adidas’ U.S. sales performance using Excel. I built an interactive dashboard that highlights key business metrics, sales trends, retailer performance, and regional profitability. The goal of this project was to transform raw transactional data into actionable insights that Adidas stakeholders could use for strategic decision‑making.
 
-- The dashboard provides a clear view of:
+ The dashboard provides a clear view of:
 
 - Total revenue generated
 
